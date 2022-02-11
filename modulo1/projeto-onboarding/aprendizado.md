@@ -1,3 +1,4 @@
+
 # Aprendizado da Semana
 
 aprendi uns comandos que alguns até memorizei como **git branch** que exibe todas as branch existentes, e exibe em verde a branch em que voce se 
