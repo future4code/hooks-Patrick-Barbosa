@@ -116,8 +116,6 @@ function checaIgualdadeDesconsiderandoCase(string1, string2) {
 // EXERCÍCIO 13
 function checaRenovacaoRG() {
   // implemente sua lógica aqui
-}
-
 
 
 // EXERCÍCIO 14
