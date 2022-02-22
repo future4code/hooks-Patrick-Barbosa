@@ -117,7 +117,6 @@ function checaIgualdadeDesconsiderandoCase(string1, string2) {
 function checaRenovacaoRG() {
   // implemente sua lógica aqui
 
-}
 
 // EXERCÍCIO 14
 function checaAnoBissexto(ano) {
