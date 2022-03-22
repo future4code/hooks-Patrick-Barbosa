@@ -1,0 +1,40 @@
+Exercício Resolvendo Problemas
+Patrick Lins Barbosa
+
+Fazer um resumo sobre resolver problemas 
+
+1 quanto ao enunciado.
+
+Deve-se ater às informações presentes no enunciado para que possa abstrair as informações mais relevantes
+como veremos  no próximo passo.
+
+
+2 quanto as informações. 
+nesta etapa é muito importante destacar as principais características de informação 
+que pode-se perceber, e posteriormente formular  idéias de códigos. 
+Como idéias para variáveis, funções etc.
+
+
+3 Entradas e saidas
+após ler o enunciado e ter entendido, e então ter separado as informações mais relevantes e
+que de fato devemos usar, podemos pensar então, em entradas e saidas. Nesta parte do processo, 
+devemos elaborar alguns códigos que já aprendemos para ajudar a desenvolver melhor o nosso
+projeto. Agora vem a parte em que pensamos em funções , arrays ou objetos ou tudo isso junto.
+
+
+4 Esquema visual 
+Nesta parte , podemos criar alguma ilustração de como deve ser o projeto , ou como deve funcionar.
+Pode-se utilizar desenhos de algoritmo para facilitar a compreensão e visualização do todo.
+
+5 - Código feio
+este processo é quando devemos utilizar códigos grosseiros, para perceber se de fato tudo esta
+funcionando conforme o planejado. Caso contrário deve-se reformular os códigos. 
+
+
+6  Força bruta 
+Processo em que traçamos uma ideia de código para então implementar na forma correta e eficiente
+
+7 Refatorar
+Nesta última parte, reformular corrigindo quaisquer eventuais problemas tanto operacional quanto estrutural;
+atendo-se sempre ao camelCase.
+
