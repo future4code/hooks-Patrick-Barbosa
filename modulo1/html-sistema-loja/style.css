@@ -1,0 +1,49 @@
+h1 { 
+    color: white;
+    background-color: red;
+    padding: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.logoCentauro{
+    width: 50px;
+}
+
+
+.footer {
+    color:white;
+    background-color: red;
+}
+
+.nomeCompaniaFuncionarios{
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    padding: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.nomeCompaniaCTRL {
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    padding: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.nomeCompaniaADD{
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    padding: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#texto{
+    color:rgb(0, 0, 0);
+    margin: 300px;
+    
+}
+footer{
+    padding: 30px;
+    background-color: grey;
+}
+
+
