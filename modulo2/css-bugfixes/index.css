@@ -72,8 +72,13 @@ div img {
     color: white;
 }
 
-#container-de-descricao>ol {
-    padding: 15px 0px;
+ #container-de-descricao>ol {
+     margin: 15px 0px; 
+    padding: 15px 0px; 
+} 
+
+.div-p {
+    padding: 60px; 
 }
 
 #container-para-comprar {
@@ -85,6 +90,7 @@ div img {
     padding: 100px 0;
     font-size: 60px;
 }
+
 
 
 /**
