@@ -71,12 +71,21 @@ div img {
 #container-de-descricao {
     background-color: #2274a5;
     color: white;
+    padding:50px 620px
 }
 
  #container-de-descricao>ol {
-     margin: 15px 0px; 
-    padding: 15px 0px; 
+     /* margin: 15px 0px;  */
+    padding: 15px 20px; 
+    list-style-position: inside;
 } 
+input {
+    height: 20px;
+    width: 500px;
+    border: 0;
+    outline: 0;
+    border-bottom: 3px solid #000;
+  }
 
 .div-p {
     padding: 60px; 
@@ -117,10 +126,17 @@ td button {
     color: rgb(0, 0, 0);
 }
 
+td button:active {
+    color: #fdfeff;
+}
+td button:hover {
+    background-color: #c4a933;
+}
+
 .container-do-search {
     margin-top: 20px;
     height: 100px;
-}
+    }
 
 td {
     text-align: center;
@@ -138,7 +154,7 @@ td {
 }
 
 #back-button:hover {
-    background-color: #635a3d;
+    background-color: #c4a933;
 }
 
 div table {
@@ -150,3 +166,4 @@ div table {
 .div-button {
     text-align: center;
 }
+
