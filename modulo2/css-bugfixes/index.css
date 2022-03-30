@@ -33,9 +33,10 @@ div>p:first-child {
     display: inline;
 }
 
-div img {
+/* icone de lupa 
+div img {  
     background: black;
-}
+} */
 
 .botao-amarelo {
     background-color: #ffaf43;
@@ -113,7 +114,7 @@ td button {
     width: 150px;
     height: 30px;
     border-radius: 5px;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .container-do-search {
@@ -137,6 +138,15 @@ td {
 }
 
 #back-button:hover {
-    background-color: #635a3d
+    background-color: #635a3d;
 }
 
+div table {
+        width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+} 
+
+.div-button {
+    text-align: center;
+}
