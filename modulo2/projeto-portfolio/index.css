@@ -1,0 +1,71 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+} 
+
+
+header{/* Parte de cima  */
+    background-color: rgba(255, 255, 255, 0.967);
+}
+
+table button{
+    background-color: rgb(41, 88, 88);
+    color:rgb(253, 253, 253);
+    height: 30px;
+    width: 80px;
+    
+}
+
+.a1 {
+    margin-left: 688px;
+    margin-right: 0px;
+}
+
+
+button:active {
+    background-color: aliceblue;
+    color: red;
+}
+
+
+.nomeemi{  /*  Texto Patrick Lins Barbosa  */
+    font-family:sans-serif;
+    font-size:40px;
+    text-align: center;
+    margin: 20px ;
+    color: rebeccapurple;
+}
+         
+
+main {
+/*     display: flex;
+    position: static; */
+    width: 300px;
+    margin: 100px;
+    padding: 30px; 
+    background-color: rgba(183, 236, 238, 0.398);
+    color: black;
+}
+
+
+
+
+.div-footer{
+    margin-top: 600px;
+    padding: 34px; 
+    background-color: rgba(4, 245, 253, 0.268);
+    text-align: center;
+}
+
+div img {
+    width: 25px;
+}
+
+.html-logo {
+    width: 30px;
+}
+
+.css-logo {
+    width: 22px;
+}
+
