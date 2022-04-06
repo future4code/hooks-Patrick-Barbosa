@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: rgb(213, 29, 29);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.botaosearch {
+margin-right: 90px;
+
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+    grid-template-rows: 2fr;
+    column-gap: 100px;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.video1 {
+    size-adjust: 100%;
+}
